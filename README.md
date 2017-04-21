@@ -18,6 +18,6 @@ Y les damos formato y tamaño
 
 Modificamos el fichero /etc/fstab para permitirnos montar los discos
 
-IMAGEN
+![fstab](URL fstab.PNG)
 
 *Pedro Herrera López*
