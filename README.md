@@ -20,4 +20,10 @@ Modificamos el fichero /etc/fstab para permitirnos montar los discos
 
 ![fstab](fstab.PNG)
 
+
+# Crontab
+
+![crontab](crontab.PNG)
+
+
 *Pedro Herrera López*
